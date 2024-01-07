@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a1bd5d3-c249-43a1-96fa-00a5e86c3e1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Aula1TP/src/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Aula3Exercicio1/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Aula3Exercicio1/src/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Aula3Exercicio3/src/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/Part02_06.AreWeThereYet/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/clientes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/clientes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/imoveis.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/imoveis.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/menu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1/projeto2_ver2/menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste1-16Nov2021/Exercicio2/src/ProvaDesportiva.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teste1-16Nov2021/Exercicio2/src/ProvaDesportiva.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2XcakFPp5LsxLZXyDsaJ5erYcwP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/francisco/workspace/IPVC/PROG2/AulasPL",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\francisco\workspace\IPVC\PROG2\AulasPL" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a1bd5d3-c249-43a1-96fa-00a5e86c3e1a" name="Changes" comment="" />
+      <created>1698930962326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698930962326</updated>
+      <workItem from="1698930963379" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
